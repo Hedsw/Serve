@@ -1,3 +1,2 @@
 # Serve
-# MEAN-stack
-# MEAN-stack
+# 버튼이랑 포스트방식으로 하는거 콘솔 로드로 채킹했음.
